@@ -32,7 +32,6 @@
 1. Знаковая картина восьмидесятых, во многом определившая эпоху.
 
 ---
-	
 # [Касабланка / Casablanca (1942)](https://www.kinopoisk.ru/film/330/)
 
 ![](https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/1d316279-1d2c-4919-b210-83fe3510e529/300x450)
@@ -51,6 +50,7 @@
 
 ---
 # [Терминатор 2: Судный день / Terminator 2: Judgment Day (1991)](https://www.kinopoisk.ru/film/444/)
+
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ade65029-952f-488d-87b2-20c676970151/300x450" width=300>
 ## о чем:
 **О чем:** Два киборга, присланных из будущего, бьются за жизнь Джона Коннора, будущего лидера Сопротивления.
@@ -102,7 +102,6 @@
 
 
 ---
-
 # [Солярис (1972)](https://www.kinopoisk.ru/film/43911/)
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/50ff52b2-5b75-44da-ad2f-906e6dafa7b7/1920x" width="300">
